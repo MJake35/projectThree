@@ -339,7 +339,7 @@ span{
 
 }
 
-@media screen and (max-width:1080px) {
+@media screen and (max-width:600px) {
     header{
         display: flex;
         flex-direction: column;
@@ -411,7 +411,7 @@ span{
         flex-direction: column;
         justify-content: space-between;
         
-        height: 1000px;
+        height: 1200px;
         
     }
     .footer-txt{
